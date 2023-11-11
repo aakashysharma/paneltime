@@ -6,4 +6,3 @@ from . import slave
 from . import callback
 
 Parallel = main.Parallel
-

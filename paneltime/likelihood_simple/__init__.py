@@ -12,4 +12,3 @@ LL = main.LL
 gradient = calculus.gradient
 func_gradent = function.gradient
 set_garch_arch = main.set_garch_arch
-

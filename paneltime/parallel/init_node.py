@@ -4,10 +4,10 @@
 import sys
 
 try:
- from . import main
- from . import slave
+    from . import main
+    from . import slave
 except:
- import main
- import slave
- 
-slave.run(main.Transact(sys.stdin,sys.stdout), True)
+    import main
+    import slave
+
+slave.run(main.Transact(sys.stdin, sys.stdout), True)
