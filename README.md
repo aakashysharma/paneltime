@@ -24,7 +24,7 @@ Tkinter:   From root, "apt python3-tk" in Linux
 
 ## For matplotlib to be installed:
 pk-konfig: From root, "apt pk-konfig" in Linux
-Freetype : From root, "apt install libfreetype6 libfreetype6-dev" in Linux)
+Freetype : From root, "apt install libfreetype6 libfreetype6-dev" in Linux
 
 
 
